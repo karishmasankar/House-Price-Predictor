@@ -1,8 +1,4 @@
-Great! Here's a polished and professional **`README.md`** file tailored for your **House Price Predictor** AI Mini Project. You can copy this into a file named `README.md` in your project folder.
 
----
-
-````markdown
 # 🏠 House Price Predictor - AI Mini Project
 
 A machine learning-based web app to predict house prices using user-input features like income, house age, and more. The project also compares multiple regression models to select the most accurate one for predictions.
@@ -130,3 +126,7 @@ Let me know if you’d like to add:
 
 Ready to move on to uploading this to GitHub?
 ```
+=======
+# House-Price-Predictor
+ML-powered app to predict house prices with GUI
+>>>>>>> b92718fa048d50a2b030d060171f53f5ea6a8c35
