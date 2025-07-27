@@ -114,8 +114,7 @@ House_Price_Predictor/
 
 ## 📚 Dataset
 
-* [USA\_Housing.csv](https://www.kaggle.com/datasets/sergeevich/usa-housing)
-  *(You can link your own source if dataset differs)*
+📎 Note: To use this project, download the dataset from [Kaggle](https://www.kaggle.com/datasets/kanths028/usa-housing) and place it inside the `data/` folder.
 
 ---
 
