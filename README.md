@@ -10,6 +10,16 @@ A machine learning-based web app to predict house prices using user-input featur
 This project aims to build a regression-based predictive model using a real-world USA housing dataset. The goal is to compare the performance of various machine learning models and deploy the best one through an interactive user interface.
 
 ---
+## 📸 Screenshots
+
+### GUI Interface
+![GUI](assets/gui_screenshot.png)
+
+### GUI Sample
+![GUI Sample](assets/gui.sample.png)
+
+### Model Comparison Tabl
+![Model Comparison](assets/model_comparison.png)
 
 ## 🧠 Problem Statement
 
