@@ -115,18 +115,4 @@ House_Price_Predictor/
 📌 AI/ML Enthusiast • Aspiring AI Architect
 🔗 [GitHub](https://github.com/karishmasankar) | [LinkedIn](https://www.linkedin.com/in/karishma-sankar1306/)
 
----
 
-```
-
-Let me know if you’d like to add:
-- Screenshots of the GUI
-- A deployment link (e.g., if hosted on Streamlit Cloud)
-- Your college name or course info
-
-Ready to move on to uploading this to GitHub?
-```
-=======
-# House-Price-Predictor
-ML-powered app to predict house prices with GUI
->>>>>>> b92718fa048d50a2b030d060171f53f5ea6a8c35
